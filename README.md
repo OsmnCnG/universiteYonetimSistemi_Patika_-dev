@@ -1,1 +1,3 @@
-# -niversiteY-netimSistemi_Patika_-dev
+# UniversiteYonetimSistemi_Patika_-dev
+
+new
